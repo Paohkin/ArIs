@@ -1,1 +1,8 @@
-data
+# Datas
+data/
+
+# Python virtual environments
+venv/
+
+# Config
+config.json
