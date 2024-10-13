@@ -6,3 +6,6 @@ venv/
 
 # Config
 config.json
+
+# Notebook
+*.ipynb
