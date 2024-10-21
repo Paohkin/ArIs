@@ -74,3 +74,11 @@ Trained tokens : 18,978 / Epochs : 3 / Batch size : 1 / LR multiplier : 1.8
 ## Develop Game
 
 pythonanywhere(https://www.pythonanywhere.com/) 에서 flask 기반으로 개발
+
+[Python]https://www.pythonanywhere.com/user/paohkin/shares/a9d2653277a24970b700f2e8326e444c/
+
+[HTML]https://www.pythonanywhere.com/user/paohkin/shares/611245e097ba4250bbd8743069d8537a/
+
+[CSS]https://www.pythonanywhere.com/user/paohkin/shares/1c42916d5d5d4410a7dbfefcf3d18b7e/
+
+[JavaScript]https://www.pythonanywhere.com/user/paohkin/shares/4ad6273b2f414cefa86021ceb3f0d112/
